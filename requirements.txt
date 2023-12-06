@@ -1,0 +1,7 @@
+matplotlib
+seaborn
+line_profiler
+tqdm
+opencv-python
+ipykernel
+ipywidgets
